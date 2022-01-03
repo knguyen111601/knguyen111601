@@ -49,12 +49,12 @@ router.get("/skills", (req,res)=>{
 <br/>
 <p align="left">
   <a href="https://trusting-tesla-9825ea.netlify.app/">
-  <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=knguyen111601&show_icons=true&theme=gruvbox&hide=contribs,issues_border=true" />
+  <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=knguyen111601&show_icons=true&theme=gruvbox&hide=contribs,issues&count_private=true@hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=knguyen111601&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Kenny Nguyen' Activity Graph](https://activity-graph.herokuapp.com/graph?username=knguyen111601&custom_title=Kenny%20Nguyen's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://trusting-tesla-9825ea.netlify.app/)
+[![Kenny Nguyen' Activity Graph](https://activity-graph.herokuapp.com/graph?username=knguyen111601&custom_title=Kenny%20Nguyen's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&count_private=true)](https://trusting-tesla-9825ea.netlify.app/)
 
 
