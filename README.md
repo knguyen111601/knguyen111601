@@ -49,7 +49,7 @@ router.get("/skills", (req,res)=>{
 <br/>
 <p align="left">
   <a href="https://trusting-tesla-9825ea.netlify.app/">
-  <img width="49.5%" height="100px" src="https://github-readme-stats.vercel.app/api?username=knguyen111601&show_icons=true&theme=gruvbox&hide=contribs,issues&count_private=true@hide_border=true" />
+  <img width="49.5%" height="300px" src="https://github-readme-stats.vercel.app/api?username=knguyen111601&show_icons=true&theme=gruvbox&hide=contribs,issues&count_private=true@hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=knguyen111601&theme=gruvbox&hide_border=true" />
   </a>
 </p>
