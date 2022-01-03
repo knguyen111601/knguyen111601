@@ -4,7 +4,7 @@
 
 Hi! My name is Kenny Nguyen and I graduated from General Assembly Software Engineering Immersive. I am a Full Stack Developer that loves diving into difficult challenges and exploring the worlds of technology. I have a background in mechanical engineering and psychology, but I moved into Software Engineering and Computer Science so that I can use my adaptability and problem solving skills to help companies achieve their goals in web development. 
 
-<a target="_blank" href="https://trusting-tesla-9825ea.netlify.app/">
+<a href="https://trusting-tesla-9825ea.netlify.app/" target="_blank">
   Portfolio
 </a>
 
