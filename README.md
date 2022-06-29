@@ -36,7 +36,7 @@ router.get("/skills", (req,res)=>{
     const skillList = [
         {frontEnd: ["HTML", "CSS", "JavaScript", "Liquid"]},
         {backEnd: ["Express", "Liquid", "MongoDB", "PostgreSQL", "SQL", "REST", "Node.js", "Python", "Ruby"]},
-        {frameworksLibraries: ["React", "TypeScript", "Ruby on Rails"]}
+        {frameworksLibraries: ["React", "TypeScript", "jQuery", "Ruby on Rails"]}
       ];
     Skills.create(skillList)
         .then((data)=>{res.json({data})})
